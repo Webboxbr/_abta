@@ -1,0 +1,19 @@
+$ cat .gitignore
+
+# Ignorar arquivos específicos
+enviaemail.asp
+enviaformulario.asp
+conexao.asp
+global.asp
+_base.txt
+
+
+# Use curingas como
+# *~
+# *.swp
+
+# Ignorar todos os diretórios e arquivos em um diretório.
+# tmp/**/* 
+ckeditor/
+video/
+videosFLV/
