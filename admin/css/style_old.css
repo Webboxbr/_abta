@@ -1,0 +1,29 @@
+.listaProdutos {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #333;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	border-bottom-width: thin;
+	border-bottom-style: dashed;
+	border-bottom-color: #CCC;
+}
+.listaProdutos .latEsq {
+	float: left;
+	width: 220px;
+}
+.listaProdutos .latEsq img {
+	width: 200px;
+}
+.listaProdutos .meio {
+	float: left;
+	width: 478px;
+}
+.listaProdutos .latDir {
+	float: left;
+	width: 151px;
+}
+.listaProdutos .latDir a {
+	font-weight: bold;
+	color: #333;
+	text-decoration: none;
+}
