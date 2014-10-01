@@ -55,6 +55,8 @@
 					Itaim Bibi, São Paulo/SP - CEP 04531-090<br />
 					Fone/Fax: (11) 3078.9307</p>
 
+					<p>Presidente Executivo: Oscar Vicente Simões de Oliveira</p>
+
 					<p>Assessor Jurídico: José Guilherme Mauger<br />
 					Gerente Executiva: Marcia Valdujo<br />
 					Administração: Celia Regina Gorny e Lilian Benfica</p>
@@ -62,9 +64,11 @@
 				</div>
 				<div class="col-xs-12 col-sm-6 col-md-6">
 					<p><span class="negrito t14">Escritório de Brasília:</span><br />
-					Edifício Torre Pátio Brasil SCS Q. 7, bloco A, nº100 - sala 804<br />
+					Edifício Torre Pátio Brasil SCS Q. 7, bloco A, nº100 - sala 803<br />
 					Brasília/DF - CEP 70307-901<br />
 					Fone: (61) 3322.0066 / Fax: (61) 3322.7766</p>
+
+					<p>Diretor: Eduardo Jardim</p>
 
 					<p>Assistente Parlamentar: Larissa Souza Teixeira<br />
 					Estagiária: Jessica Vieira Tolentino</p>

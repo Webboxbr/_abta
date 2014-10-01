@@ -93,7 +93,7 @@
 				            <div style="height:20px"></div>
 				            <p class="t11 laranja-escuro negrito">ASSOCIAÇÃO BRASILEIRA DE TELEVISÃO POR ASSINATURA</p>
 				            <p class="t11 cinza-claro">ABTA São Paulo - Rua Paes de Araújo, 29 - cjs 181/182 - Itaim Bibi Fone/Fax: (11) 3078-9307<br />
-				            ABTA Brasília - Ed. Torre Pátio Brasil - SCS Q. 7 bloco A nº 100 - sala 804 / Fone: (61) 3322-0066 / Fax: (61) 3322-7766</p>
+				            ABTA Brasília - Ed. Torre Pátio Brasil - SCS Q. 7 bloco A nº 100 - sala 803 / Fone: (61) 3322-0066 / Fax: (61) 3322-7766</p>
 				        </div>
 		            
 				</div>

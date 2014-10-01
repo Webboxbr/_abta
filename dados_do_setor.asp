@@ -49,16 +49,15 @@
 					<img src="images/decos/img12.jpg" alt="" />
 
 					<h4>Evolução do Número de Assinantes de TV por Assinatura</h4>
-					<p>O crescimento do número de assinantes de TV por Assinatura foi de 2,3% no primeiro trimestre de 2014. Comparado ao mesmo período de 2013 o crescimento chega a 9,6%. Conforme a Anatel, <b>a quantidade de assinantes em JUNHO é de 18,97 milhões.</b></p>
+					<p>O crescimento do número de assinantes de TV por Assinatura foi de 3,1% no segundo trimestre de 2014. Comparado ao mesmo período de 2013 o crescimento chega a 12%. Conforme a Anatel, a quantidade de assinantes em julho é de 19,1 milhões.</p>
 
 					<div id="grafico1" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
-					<small>Fonte: PTS até 2008 – Anatel/ABTA a partir de 2009 - mês base: março/2014</small>
+					<small>Fonte: PTS até 2008 – Anatel/ABTA a partir de 2009 - mês base: junho/2014</small>
 					<!--<img src="images/decos/img13.jpg" alt="" />/-->
-
 
 					<h4>Assinantes por tecnologia</h4>
 					<div id="grafico2" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
-					<small>Fonte: Anatel/ABTA - mês base: março/2014</small>
+					<small>Fonte: Anatel/ABTA - mês base: junho/2014</small>
 					<!--<img src="images/decos/img14.jpg" alt="" />/-->
 
 					<h4>Evolução do Número de Assinantes Banda Larga</h4>
@@ -69,24 +68,24 @@
 
 
 					<h4>Faturamento do Setor</h4>
-					<p>A receita operacional bruta de TV por assinatura com mensalidade, banda larga e outros (incluindo publicidade) no primeiro trimestre de 2014 foi de R$ 7,5 bilhões, ficando estável em relação ao trimestre anterior e aumento de 15,4% em relação ao mesmo trimestre do ano anterior. O percentual do faturamento estimado pela ABTA corresponde a 40% do total.</p>
+					<p>A receita operacional bruta de TV por assinatura com mensalidade, banda larga e outros (incluindo publicidade) no segundo trimestre de 2014 foi de R$ 8 bilhões, acréscimo de 6,9% relação ao trimestre anterior e aumento de 18,6% em relação ao mesmo trimestre do ano anterior. O percentual do faturamento estimado pela ABTA corresponde a 40% do total.</p>
 					<div id="grafico4" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
-					<small>Fonte: ABTA e Projeto Inter-Meios - mês base: março/2014</small>
-					<p>O Faturamento com publicidade no primeiro trimestre de 2014 foi de R$ 368,6 milhões. Houve queda de 31,5% em relação ao trimestre anterior e aumento de 51,4%  sobre o mesmo período de 2013.</p>
+					<small>Fonte: ABTA e Projeto Inter-Meios - mês base: junho/2014</small>
+					<p>O Faturamento com publicidade no segundo trimestre de 2014 foi de R$ 557,7 milhões. Houve aumento de 51,3% em relação ao trimestre anterior e aumento de 47,4% sobre o mesmo período de 2013.</p>
 					<!--<img src="images/decos/img16.jpg" alt="" />/-->
 
 
 					<h4>Faturamento com publicidade</h4>
 					<p></p>
 					<div id="grafico5" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
-					<small>Fonte: Projeto Inter-Meios - mês base: março/2014</small>
+					<small>Fonte: Projeto Inter-Meios - mês base: junho/2014</small>
 					<!--<img src="images/decos/img17.jpg" alt="" />/-->
 
 
 					<h4>Geração de Empregos</h4>
-					<p>O nível de empregos diretos caiu 1,7%, enquanto o de terceirizados cresceu 8,9% no primeiro trimestre do ano. No total, a força de trabalho cresceu 6,2% no trimestre e 12,5% em relação ao mesmo período de 2013. O total de postos de trabalho no primeiro trimestre é de 109.209.</p>
+					<p>O nível de empregos diretos caiu 0,2%, enquanto o de terceirizados cresceu 6,9% no segundo trimestre do ano. No total, a força de trabalho cresceu 5,2% no trimestre e 11,8% em relação ao mesmo período de 2013. O total de postos de trabalho no segundo trimestre é de 114.935.</p>
 					<div id="grafico6" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
-					<small>Fonte ABTA/SETA - mês base: março/2014</small>
+					<small>Fonte ABTA/SETA - mês base: junho/2014</small>
 					<!--<img src="images/decos/img18.jpg" alt="" />-->
 
 					<div style="height:40px"></div>

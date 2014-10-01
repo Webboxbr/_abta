@@ -11,7 +11,7 @@ $(function () {
         colors:['#020167','#1D3C7D','#264412','#49782A','#5A9332','#D4960F'],
         
         xAxis: {
-            categories: ['2002','2003','2004','2005','2006','2007','2008','2009','2010','2011','2012','2013','1T 2014']
+            categories: ['2002','2003','2004','2005','2006','2007','2008','2009','2010','2011','2012','2013','2T 2014']
         },
         yAxis: {            
             title: {
@@ -65,7 +65,7 @@ $(function () {
         },
         {
             name: 'Δ2T',
-            data: [null,null,null,null,null,null,null,null,null,null,null,0.1,null]
+            data: [null,null,null,null,null,null,null,null,null,null,null,0.1,0.6]
         },
             {
             name: 'Δ1T',
@@ -117,8 +117,8 @@ $(function () {
             type: 'pie',
             name: 'Assinantes por tecnologia',
             data: [
-                ['Cabo 7,0',   7.0],
-                ['DTH 11,4',  11.4],
+                ['Cabo 7.183',   7.183],
+                ['DTH 11.731',  11.731],
             ]
         }]
     });
@@ -135,7 +135,7 @@ $(function () {
             zoomType:'xy',
         },
         title: {
-            text: 'Evolution of the Number of Broadband Subscribers'
+            text: 'Evolution of the Number of Broadband Subscribers - In brief, data from the 2nd quarter.'
         },
         colors:['#020167','#1D3C7D','#264412','#49782A','#5A9332','#D4960F'],
         
@@ -231,7 +231,7 @@ $(function () {
         colors:['#020167','#1D3C7D','#264412','#49782A','#5A9332','#D4960F'],
         
         xAxis: {
-            categories: ['2002','2003','2004','2005','2006','2007','2008','2009','2010','2011','2012','2013','1T 2014']
+            categories: ['2002','2003','2004','2005','2006','2007','2008','2009','2010','2011','2012','2013','2T 2014']
         },
         yAxis: {            
             title: {
@@ -291,7 +291,7 @@ $(function () {
         },
         {
             name: 'Δ2T - Operadores',
-            data: [null,null,null,null,null,null,null,null,null,null,null,6.3,null]
+            data: [null,null,null,null,null,null,null,null,null,null,null,6.3,7.5]
         },
             {
             name: 'Δ1T - Operadores',
@@ -337,7 +337,7 @@ $(function () {
         colors:['#020167','#1D3C7D','#264412','#49782A','#5A9332','#D4960F'],
         
         xAxis: {
-            categories: ['2002','2003','2004','2005','2006','2007','2008','2009','2010','2011','2012','2013','1T 2014']
+            categories: ['2002','2003','2004','2005','2006','2007','2008','2009','2010','2011','2012','2013','2T 2014']
         },
         yAxis: {            
             title: {
@@ -389,7 +389,7 @@ $(function () {
             
             {
             name: 'Terceiros',
-            data: [24,24,24,29,33,41,51,56,69,70,71,77,84]
+            data: [24,24,24,29,33,41,51,56,69,70,71,77,90]
               
         },
             {

@@ -69,27 +69,27 @@
 
 						<h4>Pay TV Subscribers </h4>
 						<div id="grafico1" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
-						<small>Source: PTS until 2008 – Anatel from 2009 - mês base: march/2014</small>
+						<small>Source: PTS until 2008 – Anatel from 2009 - mês base: June/2014</small>
 						<!--<img src="images/2OVV/2.jpg" alt="" />-->
 
 						<h4>Subscribers per technology</h4>
 						<div id="grafico2" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
-						<small>Source: Anatel - Base: march/2014</small>
+						<small>Source: Anatel - Base: June/2014</small>
 						<!--<img src="images/2OVV/3.jpg" alt="" />-->
 
 						<h4>Evolution of the Number of Broadband Subscribers</h4>
 						<div id="grafico3" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
-						<small>Source: ABTA estimated (from Q2 2013) and PTS (previous) - Base: march/2014</small>
+						<small>Source: ABTA estimated (from Q2 2013) and PTS (previous) - Base: June/2014</small>
 						<!--<img src="images/2OVV/4.jpg" alt="" />-->
 
 						<h4>Billing Sector</h4>
 						<div id="grafico4" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
-						<small>Source: ABTA and Inter-Medios Project - Base: march/2014</small>
+						<small>Source: ABTA and Inter-Medios Project - Base: June/2014</small>
 						<!--<img src="images/2OVV/5.jpg" alt="" />-->
 
 						<h4>Jobs Created ( in thousands )</h4>
 						<div id="grafico6" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
-						<small>Source: ABTA/SETA - Base: march/2014</small>
+						<small>Source: ABTA/SETA - Base: June/2014</small>
 						<!--<img src="images/2OVV/7.jpg" alt="" />-->
 					</div>
 				</div>				
