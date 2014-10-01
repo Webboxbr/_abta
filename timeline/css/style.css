@@ -1,0 +1,104 @@
+* {
+	/* [disabled]margin: 0; */
+	/* [disabled]padding: 0; */
+}
+body #timeline{ /* [disabled]background: #222; */ font-family: Arial, Helvetica, sans-serif;/* [disabled]color: #fff; *//* [disabled]font-size: 14px; */ 
+}
+
+a {
+	color: #666666;
+	text-decoration: none;
+	/* [disabled]-webkit-transition: 0.5s; */
+	/* [disabled]-moz-transition: 0.5s; */
+	-o-transition: 0.5s;
+	-ms-transition: 0.5s;
+	/* [disabled]transition: 0.5s; */
+}
+	a:hover,
+	a.selected {
+	color: #333333;
+	}
+
+h1,h2,h4,h5,h6 { text-align: center; color: #ccc;/* [disabled]text-shadow: #000 1px 1px 2px; */ margin-bottom: 5px; 
+}
+	h1 {
+	font-size: 18px;
+	text-align: left;
+	}
+	h2 {
+		font-size: 14px;
+	}
+.sociales {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+	#timeline { width: 843px; height: 350px; overflow: hidden; position: relative; background-image: url(../images/dot.gif); background-repeat: repeat-x; background-position: left 45px; }
+		#dates { width: 843px; height: 60px; overflow: hidden; 
+		}
+			#dates li { list-style: none; float: left; width: 150px; height: 50px; font-size: 20px!important; text-align: center; background-image: url(../images/biggerdot.png); background-repeat: no-repeat; background-position: center bottom; 
+			}
+				#dates a {
+					line-height: 38px;
+					padding-bottom: 10px;
+				}
+				#dates .selected { font-size: 24px; font-weight: bold; 				}
+		
+		#issues { width: 843px; height: 389px; overflow: hidden; 
+		}	
+			#issues li { width: 843px; height: 370px; list-style: none; float: left; text-align: left; 
+			}
+				#issues li img {
+	/* [disabled]float: left; */
+	/* [disabled]margin: 10px 30px 10px 50px; */
+				}
+				#issues li h1 { color: #000000; font-size: 35px; margin: 20px 0;/* [disabled]text-shadow: #666 1px 1px 2px; */ 
+				}
+				#issues li p { font-size: 14px; font-weight: normal; line-height: 22px;/* [disabled]text-shadow: #666 1px 1px 2px; *//* [disabled]margin-right: 70px; */ 
+				}
+		
+		#grad_left,
+		#grad_right {
+			width: 100px;
+			height: 350px;
+			position: absolute;
+			top: 0;
+		}
+			#grad_left {
+		        left: 0;
+		        background: url('../images/grad_left.png') repeat-y;
+			}
+			#grad_right {
+		        right: 0;
+		        background: url('../images/grad_right.png') repeat-y;
+			}
+		
+		#next,
+		#prev {
+			position: absolute;
+			top: 0;
+			font-size: 70px;
+			top: 170px;
+			width: 22px;
+			height: 38px;
+			background-position: 0 0;
+			background-repeat: no-repeat;
+			text-indent: -9999px;
+			overflow: hidden;
+		}
+			#next:hover,
+			#prev:hover {
+				background-position: 0 -76px;
+			}
+			#next {
+				right: 0;
+				background-image: url('../images/next.png');
+			}
+			#prev {
+				left: 0;
+				background-image: url('../images/prev.png');
+			}
+				#next.disabled,
+				#prev.disabled {
+					opacity: 0.2;
+				}
