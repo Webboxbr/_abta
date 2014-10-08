@@ -42,10 +42,8 @@
 				<div class="col-xs-12">
 					<h1>Dados do Setor</h1>        
         
-			        <p>O mercado de TV por Assinatura não só evolui constantemente, como também quantifica a sua evolução embasado em diversas pesquisas, gráficos e indicadores que comprovam sua trajetória de crescimento. Conheça os principais dados do setor:</p>	
-					<img src="images/decos/img9.jpg" alt="" />
-
-					<h4>Principais Indicadores</h4>
+			        <p>O mercado de TV por Assinatura não só evolui constantemente, como também quantifica a sua evolução embasado em diversas pesquisas, gráficos e indicadores que comprovam sua trajetória de crescimento. Conheça os principais dados do setor:</p>
+			        <h4>Principais Indicadores</h4>
 					<img src="images/decos/img12.jpg" alt="" />
 
 					<h4>Evolução do Número de Assinantes de TV por Assinatura</h4>
