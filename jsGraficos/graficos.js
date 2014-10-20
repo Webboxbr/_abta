@@ -130,12 +130,12 @@ $(function () {
             zoomType:'xy',
         },
         title: {
-            text: 'Evolução do número de assinantes banda larga (em milhões) - Em breve, dados do 2º trimestre.'
+            text: 'Evolução do número de assinantes banda larga (em milhões)'
         },
         colors:['#020167','#1D3C7D','#264412','#49782A','#5A9332','#D4960F'],
         
         xAxis: {
-            categories: ['2002','2003','2004','2005','2006','2007','2008','2009','2010','2011','2012','2013','1T 2014']
+            categories: ['2002','2003','2004','2005','2006','2007','2008','2009','2010','2011','2012','2013','2T 2014']
         },
         yAxis: {            
             title: {
@@ -190,7 +190,7 @@ $(function () {
         },
         {
             name: 'Δ2T',
-            data: [null,null,null,null,null,null,null,null,null,null,null,0.2,null]
+            data: [null,null,null,null,null,null,null,null,null,null,null,0.2,0.5]
         },
             {
             name: 'Δ1T',

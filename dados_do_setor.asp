@@ -59,9 +59,9 @@
 					<!--<img src="images/decos/img14.jpg" alt="" />/-->
 
 					<h4>Evolução do Número de Assinantes Banda Larga</h4>
-					<p>O número de assinantes de internet banda larga chegou ao final do trimestre em 6,9 milhões, com um crescimento trimestral de 3,5% e de 12,7% sobre o mesmo período do ano anterior.</p>
+					<p>O número de assinantes de internet banda larga chegou ao final do trimestre em 7,3 milhões, com um crescimento trimestral de 6,3% e de 16% sobre o mesmo período do ano anterior.</p>
 					<div id="grafico3" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
-					<small>Fonte: Estimativa PTS - mês base: março/2014</small>
+					<small>Fonte: Estimativa PTS - mês base: junho/2014</small>
 					<!--<img src="images/decos/img15.jpg" alt="" />/-->
 
 
