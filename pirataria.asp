@@ -45,6 +45,11 @@
 
 
 			        <img src="images/deco_fraudes.jpg" alt="" style="max-width:100%;">
+			        <div class="row" id="botao-contato">
+			        	<div class="col-xs-12 col-sm-5 col-md-5"></div>			        	
+			        	<div class="col-xs-12 col-sm-5 col-md-5"><a href="contato.asp"><img src="images/bot_contato.png" alt="botao contato" style="max-width:100%"></a></div>
+			        	<div class="col-xs-12 col-sm-2 col-md-2"></div>
+			        </div>
 
 
 		         	<p style="margin-top:20px; border-bottom:solid 1px #CCCCCC; margin-bottom:20px;">Confira as principais dúvidas relacionadas ao assunto:</p>

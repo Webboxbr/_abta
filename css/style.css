@@ -17,6 +17,7 @@ background-size: cover;
 
 
 
+
 .pagina {
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -243,11 +244,15 @@ ul.indice li a:hover { font-weight: bold; }
 		margin-right: auto;
 		display: block;
 	}
+
+	#botao-contato {margin-top:10px;}
 }
 
 
 /* Celular */
 @media (min-width: 270px) {
+	#botao-contato {margin-top:10px;}
+
 	#header h1 {text-align:center; margin-left:-20px}
 	#header .busca {float:none;margin-left:auto;margin-right:auto;}
 	.busca {width:200px;float:right;margin-top:20px;}
@@ -533,8 +538,13 @@ video#bgvid {
 
 	#galeria {display:block;}
 
-	
+	#botao-contato {margin-top:10px;}
 
+}
+
+@media (min-width: 768px) {
+	#botao-contato {margin-top: -70px;margin-bottom: 70px;}
+	#botao-contato img {margin-left:50px;}
 }
 
 @media (min-width: 750px) {
@@ -559,6 +569,8 @@ video#bgvid {
 		height: 248px;
 
 	}
+
+	
 
 
 	
@@ -646,6 +658,9 @@ video#bgvid {
 		margin-top: -10px;
 		margin-left: auto;
 		margin-right: auto;
-		display: block;
+		display: block;		 
 	}
+
+
+	#botao-contato img {margin-left:0;}
 }
