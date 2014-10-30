@@ -102,9 +102,14 @@
 					    		<input type="text" name="txtTelefone" id="txtTelefone" class="form-control" />
 							</div>
 
-							<div class="col-xs-12 col-sm-12 col-md-4">
+							<!-- <div class="col-xs-12 col-sm-12 col-md-4">
 								<label for="txtFax">Fax (*)</label>
 					    		<input type="text" name="txtFax" id="txtFax" class="form-control" />
+							</div> -->
+
+							<div class="col-xs-12 col-sm-12 col-md-4">
+								<label for="txtWebsite">Website (*)</label>
+					    		<input type="text" name="txtWebsite" id="txtWebsite" class="form-control" />
 							</div>
 
 							<div class="col-xs-12 col-sm-12 col-md-4">
@@ -113,19 +118,19 @@
 						</div>
 					</div>
 
-					<div class="form-group">
+					<!-- <div class="form-group">
 						<div class="row">
-							<div class="col-xs-12 col-sm-12 col-md-6">
+							 <div class="col-xs-12 col-sm-12 col-md-6">
 								<label for="txtEmail">E-mail (*)</label>
 					    		<input type="text" name="txtEmail" id="txtEmail" class="form-control" />
-							</div>
+							</div> 
 
 							<div class="col-xs-12 col-sm-12 col-md-6">
 								<label for="txtWebsite">Website (*)</label>
 					    		<input type="text" name="txtWebsite" id="txtWebsite" class="form-control" />
 							</div>
 						</div>
-					</div>					    
+					</div> -->					    
 					
 					<h2 class="t14 laranja negrito arial">REPRESENTANTE OFICIAL</h2>
 

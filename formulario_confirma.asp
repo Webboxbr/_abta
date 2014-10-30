@@ -62,7 +62,7 @@
 					
 			        <div class="formContato">
 			        	<div style="height:40px"></div>	
-			        	<p class="alling-centro">Sua mensagem será encaminhada ao responsável, caso seja necessário ou solicitado, a ABTA retornará o mais breve possível.</p>			        	
+			        	<p class="alling-centro">MENSAGEM ENVIADA COM SUCESSO!<br>A ABTA agradece o seu contato.</p>			        	
 			        </div>
 					
 				</div>
