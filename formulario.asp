@@ -187,49 +187,49 @@
 						<div id="op1">
 							<p class="t12 cinza-claro sem-esp">Selecione a opção adequada (por numero de assinantes)</p>
 							<select name="selectOperadoras" id="selectOperadoras" class="form-control">
-							<option value="Até 15.000 - R$ 687,00">Até 15.000 - R$ 687,00</option>
-							<option value="De 15.001 a 60.000 - R$ 1.840,00">De 15.001 a 60.000 - R$ 1.840,00</option>
-							<option value="De 60.001 a 200.000 - R$ 4.590,00">De 60.001 a 200.000 - R$ 4.590,00</option>
-							<option value="De 200.001 a 500.000 - R$ 11.516,00">De 200.001 a 500.000 - R$ 11.516,00</option>
-							<option value="De 500.001 a 1.000.000 - R$ 16.157,00">De 500.001 a 1.000.000 - R$ 16.157,00</option>
-							<option value="De 1.000.001 a 1.500.000 - R$ 23.015,00">De 1.000.001 a 1.500.000 - R$ 23.015,00</option>
-							<option value="De 1.500.001 a 2.500.000 - R$ 24.853,00">De 1.500.001 a 2.500.000 - R$ 24.853,00</option>
-							<option value="De 2.500.001 a 3.500.000 - R$ 27.500,00">De 2.500.001 a 3.500.000 - R$ 27.500,00</option>
-							<option value="A partir de 3.500.001 - R$ 29.443,00">A partir de 3.500.001 - R$ 29.443,00</option>
+							<option value="Até 15.000 - R$ 730,00">Até 15.000 - R$ 730,00</option>
+							<option value="De 15.001 a 60.000 - R$ 1.956,00">De 15.001 a 60.000 - R$ 1.956,00</option>
+							<option value="De 60.001 a 200.000 - R$ 4.879,00">De 60.001 a 200.000 - R$ 4.879,00</option>
+							<option value="De 200.001 a 500.000 - R$ 12.242,00">De 200.001 a 500.000 - R$ 12.242,00</option>
+							<option value="De 500.001 a 1.000.000 - R$ 17.175,00">De 500.001 a 1.000.000 - R$ 17.175,00</option>
+							<option value="De 1.000.001 a 1.500.000 - R$ 24.465,00">De 1.000.001 a 1.500.000 - R$ 24.465,00</option>
+							<option value="De 1.500.001 a 2.500.000 - R$ 26.419,00">De 1.500.001 a 2.500.000 - R$ 26.419,00</option>
+							<option value="De 2.500.001 a 3.500.000 - R$ 29.233,00">De 2.500.001 a 3.500.000 - R$ 29.233,00</option>
+							<option value="A partir de 3.500.001 - R$ 31.298,00">A partir de 3.500.001 - R$ 31.298,00</option>
 							</select>
 						</div>
 
 						<div id="op2">
 							<p class="t12 cinza-claro sem-esp">Selecione a opção adequada (por numero de assinantes)</p>
 							<select name="selectProgramadoras" id="selectProgramadoras" class="form-control">
-							<option value="Até 400.000 - R$ 687,00">Até 400.000 - R$ 687,00</option>
-							<option value="400.001 a 1000.000 - R$ 1.840,00">400.001 a 1000.000 - R$ 1.840,00</option>
-							<option value="1000.001 a 2.000.000 - R$ 2.991,00">1000.001 a 2.000.000 - R$ 2.991,00</option>
-							<option value="2.000.001 a 3.000.000 - R$ 4.589,00">2.000.001 a 3.000.000 - R$ 4.589,00</option>
-							<option value="3.000.001 a 15.000.000 - R$ 6.909,00">3.000.001 a 15.000.000 - R$ 6.909,00</option>
-							<option value="A partir de 15.000.001 - R$ 10.313,00">A partir de 15.000.001 - R$ 10.313,00</option>
+							<option value="Até 400.000 - R$ 730,00">Até 400.000 - R$ 730,00</option>
+							<option value="400.001 a 1000.000 - R$ 1.956,00">400.001 a 1000.000 - R$ 1.956,00</option>
+							<option value="1000.001 a 2.000.000 - R$ 3.179,00">1000.001 a 2.000.000 - R$ 3.179,00</option>
+							<option value="2.000.001 a 3.000.000 - R$ 4.879,00">2.000.001 a 3.000.000 - R$ 4.879,00</option>
+							<option value="3.000.001 a 15.000.000 - R$ 7.344,00">3.000.001 a 15.000.000 - R$ 7.344,00</option>
+							<option value="A partir de 15.000.001 - R$ 10.963,00">A partir de 15.000.001 - R$ 10.963,00</option>
 							</select>
 						</div>
 
 						<div id="op3">
 							<p class="t12 cinza-claro sem-esp">Contribuição Mensal</p>
 							<select name="selectPrestServ" id="selectPrestServ" class="form-control">
-							<option value="R$ 1.031,00 (até 30 funcionários)">R$ 1.031,00 (até 30 funcionários)</option>
-							<option value="R$ 1.718,00 (acima de 30 funcionários)">R$ 1.718,00 (acima de 30 funcionários)</option>
+							<option value="R$ 1.096,00 (até 30 funcionários)">R$ 1.096,00 (até 30 funcionários)</option>
+							<option value="R$ 1.827,00 (acima de 30 funcionários)">R$ 1.827,00 (acima de 30 funcionários)</option>
 							</select>
 						</div>
 
 						<div id="op4">
 							<p class="t12 cinza-claro sem-esp">&nbsp;</p>
 							<select name="selectFornEquip" id="selectFornEquip" class="form-control">
-							<option value="Contribuição Mensal - R$ 1.718,00">Contribuição Mensal - R$ 1.718,00</option>
+							<option value="Contribuição Mensal - R$ 1.827,00">Contribuição Mensal - R$ 1.827,00</option>
 							</select>
 						</div>
 
 						<div id="op5">
 							<p class="t12 cinza-claro sem-esp">&nbsp;</p>
 							<select name="selectInstitucionais" id="selectInstitucionais" class="form-control">
-							<option value="R$ 515,00">R$ 515,00</option>
+							<option value="R$ 547,00">R$ 547,00</option>
 							</select>
 						</div>
 

@@ -37,9 +37,8 @@
 			</div>
 			<div class="row">
 				<div class="col-xs-12">
-					<h1>Filiação</h1>        
-        
-			        <p class="negrito">Missão</p>
+					<h1>Filiação</h1>                
+			        
 			        <p>Para associar sua empresa à ABTA, clique no botão “Filiação” e preencha o formulário a seguir, que será encaminhado automaticamente pelo site.</p>
 
 					<div style="height:20px"></div>
