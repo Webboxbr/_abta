@@ -130,8 +130,7 @@
 
 			<div class="row">
 				<div class="col-xs-12">
-					<ul class="entidades">
-						<li><img src="images/associados/54.jpg" width="129" height="130" alt="" /><p>ASSOCIAÇÃO NEOTEC</p></li>
+					<ul class="entidades">						
 						<li onclick="window.open('http://www.neotv.com.br/','_blank');" class="botao"><img src="images/associados/50.jpg" width="129" height="130" alt="" /><p>ASSOCIAÇÃO NEO TV</p></li>
 						<li onclick="window.open('http://www.ebc.com.br/','_blank');" class="botao"><img src="images/associados/51.jpg" width="129" height="130" alt="" /><p>EBC - EMPRESA BRASIL DE COMUNICAÇÃO S/A</p></li>
 					</ul>					 
